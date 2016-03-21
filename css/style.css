@@ -110,9 +110,9 @@ body {
 	margin:0 auto;
 }
 .section h1 {
-	margin-bottom:40px;
+	margin-bottom:20px;
 	font-size:36px;
-	margin-top: 150px;
+	margin-top: 120px;
 }
 .overlay {
 	background:#ecf0f1;
@@ -2880,6 +2880,17 @@ body {
 }
 .section-content-1{
 	margin-top: 20%;
+}
+.xiaozuopin{
+ 	width: 30%;
+ 	height: 50px;
+ 	display: inline-block;
+}
+.xiaozuopin a{
+ 	color: #fff;
+}
+#xiaozuopin1{
+	color: #fff;
 }
 
 @media only screen and (max-width:800px) {
