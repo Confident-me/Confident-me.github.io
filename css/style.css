@@ -219,9 +219,9 @@ body {
 	border:4px solid #fff;
 	overflow:hidden;
 	text-indent:-9999px;
-	background:url(../images/avatar.jpg);
+	background:url(../images/touxiang.png);
 	-webkit-background-size:100px 100px;
-	background-size:100px 100px;
+	/*background-size:100px 100px;*/
 	padding:0 !important;
 	top:30px
 }
@@ -2881,17 +2881,31 @@ body {
 .section-content-1{
 	margin-top: 20%;
 }
-.xiaozuopin{
- 	width: 30%;
- 	height: 50px;
- 	display: inline-block;
-}
-.xiaozuopin a{
- 	color: #fff;
-}
 #xiaozuopin1{
 	color: #fff;
 }
+.work-info-gengduo{
+	width: 45%;
+	/*height: 30px;*/
+	/*border: 1px solid black;*/
+	float: left;
+	margin: 3px;
+}
+.work-info-gengduo a{
+	display: block;
+	width: 100%;
+	height: 100%;
+	/*background: red;*/
+	color: #fff;
+}
+.erweima li{
+	width: 200px;
+	height: 200px;
+	list-style: none;
+	float: left;
+	margin: 3px;
+}
+
 
 @media only screen and (max-width:800px) {
 	.section-about .about-content {
@@ -3031,6 +3045,7 @@ body {
 }
 .section h2{
 	margin-top: 10px;
+	font-size: 16px;
 }
 .section h3{
 	margin-bottom: 5px;
@@ -3055,6 +3070,18 @@ body {
 }
 #dibu-yincang-1{
 	display: none;
+}
+#xiaozuopin{
+	font-size: 12px;
+}
+.work-info-gengduo{
+	margin: 0;
+}
+.work-info div a{
+	font-size: 12px;
+}
+.works-content .works-item .work-info h2{
+	margin: 0;
 }
 
 
