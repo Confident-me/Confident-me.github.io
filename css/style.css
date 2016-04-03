@@ -219,9 +219,9 @@ body {
 	border:4px solid #fff;
 	overflow:hidden;
 	text-indent:-9999px;
-	background:url(../images/touxiang.png);
+	background:url(../images/1.jpg);
 	-webkit-background-size:100px 100px;
-	/*background-size:100px 100px;*/
+	background-size:100px 110px;
 	padding:0 !important;
 	top:30px
 }
@@ -2998,7 +2998,8 @@ body {
 .imgs{
 	width: 100px;
 	height: 100px;
-	background: url(../images/avatar.jpg);
+	background: url(../images/1.jpg);
+	background-size: 100px 110px;
 	position: absolute;
 	top: 70px;
 	left: 40%;
@@ -3078,10 +3079,18 @@ body {
 	margin: 0;
 }
 .work-info div a{
-	font-size: 12px;
+	font-size: 8px;
 }
 .works-content .works-item .work-info h2{
 	margin: 0;
+}
+.erweima li{
+	width: 100px;
+	height: 100px;
+	margin: 10px;
+}
+.fade3 .erweima li img{
+	width: 100px;
 }
 
 

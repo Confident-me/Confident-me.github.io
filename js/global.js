@@ -62,7 +62,7 @@ Global.reCal = function(){
     //高度居中主体内容
     $('.section-content').each(function(){
         $(this).css({
-            marginTop: ( $(window).height() - 100- $(this).height() ) 
+            marginTop: ( $(window).height() - 110- $(this).height() ) 
         });
     });
 
