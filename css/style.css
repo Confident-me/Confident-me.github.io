@@ -219,9 +219,9 @@ body {
 	border:4px solid #fff;
 	overflow:hidden;
 	text-indent:-9999px;
-	background:url(../images/1.jpg);
+	background:url(../images/title.jpg);
 	-webkit-background-size:100px 100px;
-	background-size:100px 110px;
+	background-size:100px 100px;
 	padding:0 !important;
 	top:30px
 }
