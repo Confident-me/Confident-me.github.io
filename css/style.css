@@ -399,16 +399,16 @@ body {
 	height:100px
 }
 .section-about .about-content .introli .left_icon .bio-icon-1 {
-	-webkit-animation:bio-icon-in2 .6s ease-out .7s 1 forwards;
-	-moz-animation:bio-icon-in2 .6s ease-out .7s 1 forwards
+	-webkit-animation:bio-icon-in2 1.6s ease-out 1.7s 1 forwards;
+	-moz-animation:bio-icon-in2 .6s ease-out 1.7s 1 forwards
 }
 .section-about .about-content .introli .left_icon .bio-icon-2 {
-	-webkit-animation:bio-icon-in2 .6s ease-out 1s 1 forwards;
-	-moz-animation:bio-icon-in2 .6s ease-out 1s 1 forwards
+	-webkit-animation:bio-icon-in2 1.6s ease-out 2.2s 1 forwards;
+	-moz-animation:bio-icon-in2 1.6s ease-out 1s 1 forwards
 }
 .section-about .about-content .introli .left_icon .bio-icon-3 {
-	-webkit-animation:bio-icon-in2 .6s ease-out 1.3s 1 forwards;
-	-moz-animation:bio-icon-in2 .6s ease-out 1.3s 1 forwards
+	-webkit-animation:bio-icon-in2 1.6s ease-out 2.7s 1 forwards;
+	-moz-animation:bio-icon-in2 1.6s ease-out 1.3s 1 forwards
 }
 .section-about .about-content .introli .right_content .bio-text-1 {
 	/*margin-left:-210px;*/
@@ -3115,7 +3115,7 @@ body {
 	margin:0 auto
 }
 .works-content .works-item:nth-child(2n+1) {
-	margin-left:0 !important
+	margin-left:20px !important
 }
 .works-content .works-item:nth-child(2n) {
 	margin-left:20px !important
