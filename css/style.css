@@ -511,7 +511,7 @@ body {
 	transition:all 0.4s ease-in
 }
 .works-content .works-list .fade.fade-in {
-	/*left:0;*/
+	left:0;
 	top:0
 }
 .works-content .works-item {
@@ -2998,7 +2998,7 @@ body {
 .imgs{
 	width: 100px;
 	height: 100px;
-	background: url(../images/1.jpg);
+	background: url(../images/title.jpg);
 	background-size: 100px 110px;
 	position: absolute;
 	top: 70px;
