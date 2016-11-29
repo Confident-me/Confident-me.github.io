@@ -94,7 +94,9 @@ body {
 
 
 
-
+.work-info>p>i{
+	font-style: normal;
+}
 .left {
 	float:left
 }
@@ -2866,12 +2868,12 @@ body {
 }
 }@media only screen and (max-width:960px) {
 	.nav {
-	width:100%;
-}
+		width:100%;
+	}
 	
-.section {
-	width:100%;
-}
+	.section {
+		width:100%;
+	}
 
 }
 
@@ -3110,6 +3112,10 @@ body {
 
 
 
+
+
+
+
 /*响应式  修改结束***************************/
 
 .section-about .about-content .left {
@@ -3165,6 +3171,10 @@ body {
 	float: none;
 
 }
+.work-info>p>i{
+		font-style: normal;
+		display: none;
+}
 
 
 
@@ -3173,6 +3183,13 @@ body {
 }
 
 
+
+@media only screen and (max-width:420px){
+	.work-info>p>i{
+		font-style: normal;
+		display: none;
+	}
+}
 
 /*********************************************/
 /*}@media*/
