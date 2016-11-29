@@ -565,6 +565,10 @@ body {
 .works-content .works-item .work-info h2 {
 	margin-bottom:20px
 }
+.work-info p{
+	letter-spacing: 1.3px;
+	word-spacing: 1px;
+}
 .more-link {
 	color:#fff;
 	display:block;
@@ -3030,7 +3034,7 @@ body {
 	margin-left: 20px;
 }
 .works-content .works-list .fade.fade-in{
-	width: 42%;
+	width: 45%;
 	height: 100px;
 }
 .works-content {
@@ -3046,7 +3050,15 @@ body {
 }
 .section h2{
 	margin-top: 10px;
-	font-size: 16px;
+	font-size: 14px;
+}
+.work-info strong{
+	font-size: 12px;
+
+}
+.work-info{
+	font-size: 12px;
+	letter-spacing: 1px;
 }
 .section h3{
 	margin-bottom: 5px;
@@ -3095,6 +3107,8 @@ body {
 
 
 
+
+
 /*响应式  修改结束***************************/
 
 .section-about .about-content .left {
@@ -3115,10 +3129,10 @@ body {
 	margin:0 auto
 }
 .works-content .works-item:nth-child(2n+1) {
-	margin-left:20px !important
+	margin-left:15px !important
 }
 .works-content .works-item:nth-child(2n) {
-	margin-left:20px !important
+	margin-left:15px !important
 }
 .skill-content {
 	width:100%;
